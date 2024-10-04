@@ -1,6 +1,6 @@
-# nutripro
+# NutriPro
 
-A new Flutter project.
+NutriPro es una solución tecnológica diseñada específicamente para optimizar y facilitar la administración de consultorios y centros de nutrición. Este proyecto surge como respuesta a la creciente demanda de herramientas que permitan a los profesionales del área de nutrición gestionar de manera eficiente sus actividades diarias, sin perder el enfoque en la atención personalizada de sus pacientes.
 
 ## Getting Started
 
